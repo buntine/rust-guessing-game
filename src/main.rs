@@ -3,7 +3,7 @@ use std::io;
 fn main() {
     println!("!!! GUESS THE RANDOM NUMBER (1 - 100) !!!");
 
-    println!("Please input yuor number: ");
+    println!("Please input your number: ");
 
     let mut guess = String::new();
 

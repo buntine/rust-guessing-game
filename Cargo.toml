@@ -2,3 +2,6 @@
 name = "guessing_game"
 version = "0.1.0"
 authors = ["Andrew Buntine <info@bunts.io>"]
+
+[dependencies]
+rand="0.3.8"
